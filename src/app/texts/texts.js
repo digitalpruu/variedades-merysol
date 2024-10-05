@@ -27,8 +27,8 @@ const textos = {
         address: "",
         phone: numeroWhatsApp,
         email: email,
-        facebook: "https://www.facebook.com/MerysolGomezMelo", // Facebook proporcionado.
-        instagram: "https://www.instagram.com/MerysolGomezMelo", // Instagram proporcionado.
+        facebook: "https://www.facebook.com/profile.php?id=100077334649552&mibextid=ZbWKwL", // Facebook proporcionado.
+        instagram: "https://www.instagram.com/merysolgomezmelo", // Instagram proporcionado.
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`,
     },
 };
